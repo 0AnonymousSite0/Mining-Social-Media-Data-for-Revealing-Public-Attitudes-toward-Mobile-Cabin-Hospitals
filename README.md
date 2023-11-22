@@ -18,17 +18,29 @@ This table below shows all supplemental materials. All sheets in these Tables S1
 ## 3.1 Set environment 
 All codes are developed on Python 3.7, and the IDE adopted is PyCharm (Professional version). The codes also support the GPU computing for higher speed; the Navida CUDA we adopted is V10.0.130. The GIS platform is Arcgis Pro 2.3, and its license is necessary. 
 •	gensim==3.7.1
+
 •	jieba==0.39
+
 •	numpy==1.16.2
+
 •	pandas==0.23.4
+
 •	scikit-learn==0.19.1
+
 •	tflearn==0.3.2
+
 •	tqdm==4.31.1
+
 •	passlib==1.7.1
+
 •	keras==2.2.4
+
 •	keras-bert==0.41.0
+
 •	keras-xlnet==0.16.0
+
 •	keras-adaptive-softmax==0.6.0
+
 Before submitting these codes to Github, all of them have been tested to be well-performed (as shown in the screwshots). Even so, we are not able to guarantee their operation in other computing environments due to the differences in the python version, computer operating system, and adopted hardware.
 
 ## 3.2 Download the embedding models 
