@@ -18,6 +18,7 @@ This table below shows all supplemental materials. All sheets in Tables S1, S2, 
 # 3 Repository reuse 
 ## 3.1 Set environment 
 All codes are developed on Python 3.7, and the IDE adopted is PyCharm (Professional version). The codes also support the GPU computing for higher speed; the Navida CUDA we adopted is V10.0.130. The GIS platform is Arcgis Pro 2.3, and its license is necessary. 
+
 •	gensim==3.7.1
 
 •	jieba==0.39
