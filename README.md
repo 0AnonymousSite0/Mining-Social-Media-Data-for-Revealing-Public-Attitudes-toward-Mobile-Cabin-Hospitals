@@ -47,11 +47,15 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 ## 3.2 Download the embedding models 
 ![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/embeddings.png)
-Embeddings to be added
+Embeddings are available through this link (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 ## 3.3 Reuse or Retrain the models 
-### 3.3.1 Models directly for reuses 
+### 3.3.1 Models directly for reuses
+
+Developed models for sentiment analysis models (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 
 ![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/Developed%20topic%20classification%20models.png)
+
+Developed models for topic classification models (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 ### 3.3.2 Codes for retraining the models
 
 ![image](https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/codes%20for%20developing%20sentiment%20analysis%20models.png)
