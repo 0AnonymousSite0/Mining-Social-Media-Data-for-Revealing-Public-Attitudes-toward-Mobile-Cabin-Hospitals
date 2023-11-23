@@ -11,7 +11,7 @@ This table below shows all supplemental materials. All sheets in Tables S1, S2, 
 
 2.1 This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by University of XXX in UK,  The University of XXX in Hong Kong SAR, and XXX University in China.
 
-2.2 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including Bert (https://github.com/google-research/bert), Tensorflow (https://github.com/tensorflow/models), pytorch (https://github.com/pytorch/pytorch), Keras (https://github.com/keras-team/keras), Numpy (https://numpy.org/), labelImg (https://github.com/tzutalin/labelImg), pyExcelerator (https://github.com/WoLpH/pyExcelerator), py2neo (https://github.com/py2neo-org/py2neo), some base works (https://github.com/yongzhuo/Keras-TextClassification, https://github.com/zjunlp/DeepKE/tree/master), and so on. Our work stands on the shoulders of these giants.
+2.2 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including Bert (https://github.com/google-research/bert), Tensorflow (https://github.com/tensorflow/models), pytorch (https://github.com/pytorch/pytorch), Keras (https://github.com/keras-team/keras), Numpy (https://numpy.org/), labelImg (https://github.com/tzutalin/labelImg), pyExcelerator (https://github.com/WoLpH/pyExcelerator), some base works (https://github.com/yongzhuo/Keras-TextClassification, https://github.com/zjunlp/DeepKE/tree/master), and so on. Our work stands on the shoulders of these giants.
 
 2.3 As for anything regarding the copyright, please refer to the MIT License or contact the authors.
 
@@ -48,20 +48,22 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 ## 3.2 Download the embedding models 
 ![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/embeddings.png)
-Embeddings are available through this link (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
+
+↑↑↑Embeddings are available through this link (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 ## 3.3 Reuse or Retrain the models 
 ### 3.3.1 Models directly for reuses
+![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/Developed%20sentiment%20analysis%20models.png)
 
-Developed models for sentiment analysis models (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
+↑↑↑Developed models for sentiment analysis models (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 
 ![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/Developed%20topic%20classification%20models.png)
 
-Developed models for topic classification models (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
+↑↑↑Developed models for topic classification models (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 ### 3.3.2 Codes for retraining the models
 
 ![image](https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/codes%20for%20developing%20sentiment%20analysis%20models.png)
-Codes for retraining the sentiment analysis models
+↑↑↑Codes for retraining the sentiment analysis models
 
 ![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/codes%20for%20developing%20topic%20classification%20models.png)
-Codes for retraining the topic classification models
+↑↑↑Codes for retraining the topic classification models
 
