@@ -47,7 +47,7 @@ All codes are developed on Python 3.7, and the IDE adopted is PyCharm (Professio
 Before submitting these codes to Github, all of them have been tested to be well-performed (as shown in the screwshots). Even so, we are not able to guarantee their operation in other computing environments due to the differences in the python version, computer operating system, and adopted hardware.
 
 ## 3.2 Download the embedding models 
-![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/embeddings.png)
+![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/Embeddings.png)
 
 ↑↑↑Embeddings are available through this link (https://drive.google.com/drive/folders/1oG5OD3u6-igaUfYAw9ekMQYJzJZisR8A?usp=sharing)
 ## 3.3 Reuse or Retrain the models 
