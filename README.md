@@ -3,7 +3,7 @@
 ## !!! As the paper is under review, all contents in this repository currently are not allowed to be re-used by anyone until this announcement is deleted.
 
 # 1. Summary of supplemental materials
-This table below shows all supplemental materials. All sheets in Tables S1, S2, and S3 are arranged in the order shown in this table.
+This table below shows all supplemental materials. All sheets in Tables S1, S2, S3, and S4 are arranged in the order shown in this table.
 
 ![image]( https://github.com/0AnonymousSite0/Mining-Social-Media-Data-for-Revealing-Public-Attitudes-toward-Mobile-Cabin-Hospitals/blob/main/Screenshots%20for%20model%20developments/Inventory%20of%20supplemental%20materials.png)
 
